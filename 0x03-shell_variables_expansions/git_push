@@ -17,6 +17,3 @@ git push origin main
 
 # Echo a message indicating the push is complete
 echo "Git push successful"
-
-#Else if an error occured
-else echo "git push error"
